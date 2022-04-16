@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/airtonloureiro/github-readme-stats)
 
-![snake gif](https://github.com/warleyserafim/airtonloureiro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/airtonloureiro/airtonloureiro/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 
